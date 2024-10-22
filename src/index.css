@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.banner{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.583),rgba(0, 0, 0, 0.583)), url(./assets/image.png) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
